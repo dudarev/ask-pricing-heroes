@@ -50,7 +50,7 @@ if api_key_input:
 st.sidebar.markdown(
     """
 ---
-Based on [ask-my-texts](https://github/dudarev/ask-my-texts) project
+Based on [ask-my-texts](https://github.com/dudarev/ask-my-texts) project
 """
 )
 
